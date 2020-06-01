@@ -1,4 +1,7 @@
 ![](screen_shoots/all_pallets.png)
+![](screen_shoots/pallet.png)
+![](screen_shoots/one_color.png)
+![](screen_shoots/create_pallet.png)
 
 ## Available Scripts
 

@@ -1,4 +1,4 @@
-![](screen_shots/all_pallets.png)
+![](screen_shoots/all_pallets.png)
 
 ## Available Scripts
 

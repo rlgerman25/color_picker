@@ -36,12 +36,6 @@ Delete individual color(s) in palette </br>
 Add a color to the palette based on a hex code </br>
 
 ## Dependencies
-
-
-## Inspiration
-This app was created when I was taking Colt Steele's React class on Udemy.
-
-### `npm start`
 <ul>
   <li> material-ui</li>
   <li> chroma-js</li>
@@ -54,5 +48,9 @@ This app was created when I was taking Colt Steele's React class on Udemy.
   <li> react-sortable-hoc </li> 
 </ul>
 
+### `npm start`
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Inspiration
+This app was created when I was taking Colt Steele's React class on Udemy.
